@@ -40,7 +40,7 @@ To maintain a high standard of quality and consistency, please adhere to the fol
 
 ## Code of Conduct
 
-We expect all contributors to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md). Please be respectful and considerate towards others in all interactions.
+We expect all contributors to adhere to our [Code of Conduct](https://github.com/TheExpertApprentice/Requirement-Elicitation/blob/main/CODE_Of_CONDUCT.md). Please be respectful and considerate towards others in all interactions.
 
 ## Getting Started
 
