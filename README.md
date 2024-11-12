@@ -1,9 +1,16 @@
 
 # $\color{Apricot}{A\ Decade\ of\ My\ Professional\ Experience\ in\ Requirement\ Gathering\ shared\ for\ FREE}$ 
 
-Welcome to this repository dedicated to the art and science of effective requirement gathering! This project serves as a valuable resource for *project managers*, *business analysts*, and *anyone* involved in the process of defining project requirements.
+> [!NOTE]
+> Welcome to this repository dedicated to the art and science of effective requirement gathering! This project serves as a valuable resource for *project managers*, *business analysts*, and *anyone* involved in the process of defining project requirements.
+> Here, I unveil insights and lessons learned from personal experience on the key secrets for successful requirement gathering. You'll find insights, pitfalls, mistakes to avoid, good methodologies or strategies to adopt, and practical tools to enhance your requirement-gathering skills.
 
-Here, I unveil insights and lessons learned from personal experience on the key secrets for successful requirement gathering. You'll find insights, pitfalls, mistakes to avoid, good methodologies or strategies to adopt, and practical tools to enhance your requirement-gathering skills.
+<br>
+
+> [!WARNING]
+> The insights and opinions shared in this blog are based on my personal experiences and knowledge. While I strive to provide accurate and helpful information, please note that they are intended for informational purposes only and should not be considered professional advice. Always consult with a qualified expert for specific guidance related to your situation!.
+
+
 
 ---
 
@@ -54,20 +61,15 @@ To navigate through this repository:
 
 ---
 
-## Additional Resources
+<br>
+
+> [!RESOURCES]
+> Links to ##Additional Resources or references that can aid users further
 
 - **Books**: Consider reading "Software Requirements" by Karl Wiegers for a deeper understanding of requirement engineering.
 - **Online Courses**: Platforms like Coursera and Udemy offer courses on business analysis and requirement gathering techniques.
 - **Forums & Communities**: Join forums such as the International Institute of Business Analysis (IIBA) or LinkedIn groups focused on project management for networking and knowledge sharing.
 
-> [!NOTE]
-> Essential details that users should not overlook, even when browsing quickly.
-
-
-<br>
-
-> [!WARNING]
-> Urgent content that requires immediate user focus due to possible risks.
 
 <br>
 
