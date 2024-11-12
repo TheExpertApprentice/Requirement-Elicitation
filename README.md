@@ -1,5 +1,5 @@
 
-# $\color{Aquamarine}{A \Decade \of \My \Professional \Experience \in \Requirement \Gathering \shared \for \FREE}$ 
+# $\color{Apricot}{A\ Decade\ of\ My\ Professional\ Experience\ in\ Requirement\ Gathering\ shared\ for\ FREE}$ 
 
 Welcome to this repository dedicated to the art and science of effective requirement gathering! This project serves as a valuable resource for *project managers*, *business analysts*, and *anyone* involved in the process of defining project requirements.
 
@@ -7,21 +7,21 @@ Here, I unveil insights and lessons learned from personal experience on the key 
 
 ---
 
-## Why Requirement Gathering Matters
+## $\color{Apricot}{Why\ Requirement\ Gathering\ Matters}$ 
 
 Effective requirement gathering is crucial for the success of any project. It ensures that all stakeholders have a clear understanding of what needs to be delivered, minimizing misunderstandings and scope creep. By mastering this essential skill, you can drive projects toward successful outcomes, ensuring that they meet both business objectives and user needs.
 
 ---
 
-## What This Repository Offers
+## $\color{Apricot}{What\ This\ Repository\ Offers}$
 
 In this repository, you will find:
 
-- **Guidelines**: Best practices and methodologies for gathering requirements effectively.
-- **Techniques**: strong foundational & Advanced methods for eliciting high-quality requirements from stakeholders.
-- **Tools**: strategies, reference guides, and templates I developed, that can also help streamline your requirement-gathering process.
-- **Additional Resources**: Recommended books, videos, certifications, and professional communities to augment your knowledge on requirement-gathering.
-- **Articles**: In-depth articles that explore key concepts in requirement gathering:
+- **$\color{Apricot}{Guidelines\}$**: Best practices and methodologies for gathering requirements effectively.
+- **$\color{Apricot}{Techniques\}$**: strong foundational & Advanced methods for eliciting high-quality requirements from stakeholders.
+- **$\color{Apricot}{Tools\}$**: strategies, reference guides, and templates I developed, that can also help streamline your requirement-gathering process.
+- **$\color{Apricot}{Additional Resources\}$**: Recommended books, videos, certifications, and professional communities to augment your knowledge on requirement-gathering.
+- **$\color{Apricot}{Articles\}$**: In-depth articles that explore key concepts in requirement gathering:
   - [Part 1: The Art of Requirement Gathering: proven success strategies for any sized projects and tasks](https://medium.com/@EjikeKris/the-art-of-requirement-gathering-proven-success-strategies-for-any-sized-projects-and-tasks-e955cde8169b) - in this article, I provide an overview of essential techniques for establishing a strong foundation in good requirement gathering.
   - [Part 2: Advanced Methods for High-Quality Requirements](https://medium.com/@yourusername/part-2-advanced-methods-for-high-quality-requirements) - In this follow-up article, I share more sophisticated approaches to ensure you capture the best possible requirements and elevate your overall requirement elicitation skills.
 
