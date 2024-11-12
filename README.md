@@ -21,6 +21,11 @@ In this repository, you will find:
 - **$\color{Apricot}{Techniques\}$**: strong foundational & Advanced methods for eliciting high-quality requirements from stakeholders.
 - **$\color{Apricot}{Tools\}$**: strategies, reference guides, and templates I developed, that can also help streamline your requirement-gathering process.
 - **$\color{Apricot}{Additional Resources\}$**: Recommended books, videos, certifications, and professional communities to augment your knowledge on requirement-gathering.
+<br>
+
+> [!IMPORTANT]
+> Vital information is discussed here and it is highly advisable that you go through it.
+
 - **$\color{Apricot}{Articles\}$**: In-depth articles that explore key concepts in requirement gathering:
   - [Part 1: The Art of Requirement Gathering: proven success strategies for any sized projects and tasks](https://medium.com/@EjikeKris/the-art-of-requirement-gathering-proven-success-strategies-for-any-sized-projects-and-tasks-e955cde8169b) - in this article, I provide an overview of essential techniques for establishing a strong foundation in good requirement gathering.
   - [Part 2: Advanced Methods for High-Quality Requirements](https://medium.com/@yourusername/part-2-advanced-methods-for-high-quality-requirements) - In this follow-up article, I share more sophisticated approaches to ensure you capture the best possible requirements and elevate your overall requirement elicitation skills.
@@ -52,6 +57,25 @@ To navigate through this repository:
 - **Books**: Consider reading "Software Requirements" by Karl Wiegers for a deeper understanding of requirement engineering.
 - **Online Courses**: Platforms like Coursera and Udemy offer courses on business analysis and requirement gathering techniques.
 - **Forums & Communities**: Join forums such as the International Institute of Business Analysis (IIBA) or LinkedIn groups focused on project management for networking and knowledge sharing.
+
+> [!NOTE]
+> Essential details that users should not overlook, even when browsing quickly.
+
+<br>
+
+> [!TIP]
+> Additional advice to aid users in achieving better outcomes.
+
+
+<br>
+
+> [!WARNING]
+> Urgent content that requires immediate user focus due to possible risks.
+
+<br>
+
+> [!CAUTION]
+> for any  negative outcomes resulting from an action.
 
 ---
 
