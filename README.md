@@ -74,8 +74,6 @@ To navigate through this repository:
 
 ---
 
-<br>
-
 ## $\color{Apricot}{Conclusion\ }$
 
 Mastering requirement gathering is an invaluable asset in project management. Whether you're a seasoned professional or just starting your journey, I hope this repository has provided you with ample amount of resources necessary to enhance your skills and contribute to successful future project outcomes.
