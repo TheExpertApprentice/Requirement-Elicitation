@@ -21,8 +21,8 @@ In this repository, you will find:
 - **Techniques**: Advanced methods for eliciting high-quality requirements from stakeholders.
 - **Tools**: Recommended tools and templates to streamline the requirement-gathering process.
 - **Articles**: In-depth articles that explore key concepts in requirement gathering:
-  - [Part 1: The Art of Requirement Gathering: proven success strategies for any sized projects and tasks](https://medium.com/@EjikeKris/the-art-of-requirement-gathering-proven-success-strategies-for-any-sized-projects-and-tasks-e955cde8169b) - This article provides an overview of essential techniques for establishing a strong foundation in good requirement gathering.
-  - [Part 2: Advanced Methods for High-Quality Requirements](https://medium.com/@yourusername/part-2-advanced-methods-for-high-quality-requirements) - In this follow-up article, we delve into more sophisticated approaches to ensure you capture the best possible requirements.
+  - [Part 1: The Art of Requirement Gathering: proven success strategies for any sized projects and tasks](https://medium.com/@EjikeKris/the-art-of-requirement-gathering-proven-success-strategies-for-any-sized-projects-and-tasks-e955cde8169b) - in this article, I provide an overview of essential techniques for establishing a strong foundation in good requirement gathering.
+  - [Part 2: Advanced Methods for High-Quality Requirements](https://medium.com/@yourusername/part-2-advanced-methods-for-high-quality-requirements) - In this follow-up article, I share more sophisticated approaches to ensure you capture the best possible requirements and elevate your overall requirement elicitation skills.
 
 ---
 
