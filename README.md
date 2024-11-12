@@ -11,7 +11,6 @@
 > The insights and opinions shared in this blog are based on my personal experiences and knowledge. While I strive to provide accurate and helpful information, please note that they are intended for informational purposes only and should not be considered professional advice. Always consult with a qualified expert for specific guidance related to your situation!.
 
 
-
 ---
 
 ## $\color{Apricot}{Why\ Requirement\ Gathering\ Matters}$ 
@@ -66,8 +65,7 @@ To navigate through this repository:
 
 <br>
 
-> [!RESOURCES]
-> Links to ##Additional Resources or references that can aid users further
+## $\color{Apricot}{Additional\ Resources\ or\ references\ that\ can\ aid\ users\ further}$
 
 - **Books**: Consider reading "Software Requirements" by Karl Wiegers for a deeper understanding of requirement engineering.
 - **Online Courses**: Platforms like Coursera and Udemy offer courses on business analysis and requirement gathering techniques.
