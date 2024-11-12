@@ -73,8 +73,10 @@ To navigate through this repository:
 > Any contributions to this project must follow our [Contribution Guide](https://github.com/TheExpertApprentice/Requirement-Elicitation/blob/main/contribution.md) and adhere to our [Code of Conduct](https://github.com/TheExpertApprentice/Requirement-Elicitation/blob/main/CODE_Of_CONDUCT.md).
 
 ---
+
 <br>
-## $\color{Apricot}{Conclusion}$
+
+## $\color{Apricot}{Conclusion\ }$
 
 Mastering requirement gathering is an invaluable asset in project management. Whether you're a seasoned professional or just starting your journey, I hope this repository has provided you with ample amount of resources necessary to enhance your skills and contribute to successful future project outcomes.
 
@@ -84,6 +86,6 @@ Thank you for exploring this guide! If you have any questions or suggestions for
 
 ### Show Your Support
 
-If you find this guide helpful or inspiring, please give it a star ⭐️! Your support encourages continuous improvement and knowledge sharing within our community.
+If you find this guide helpful or inspiring, please give it a star ⭐️ and share to your network! Your support encourages continuous improvement and knowledge sharing within our community.
 
 ---
