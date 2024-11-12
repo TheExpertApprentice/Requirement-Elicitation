@@ -38,8 +38,9 @@ In this repository, you will find:
   - [Part 2: Advanced Methods for High-Quality Requirements](https://medium.com/@yourusername/part-2-advanced-methods-for-high-quality-requirements) - In this follow-up article, I share more sophisticated approaches to ensure you capture the best possible requirements and elevate your overall requirement elicitation skills.
 
 ---
+<br>
 
-## Key Components of Effective Requirement Gathering
+## $\color{Apricot}{Key\ Components\ of\ Effective\ Requirement\ Gathering}$
 
 1. **Stakeholder Engagement**: Involve all relevant stakeholders early in the process to gather diverse perspectives.
 2. **Clear Communication**: Use clear and concise language to articulate requirements, avoiding jargon that may confuse stakeholders.
@@ -51,7 +52,9 @@ In this repository, you will find:
 <br>
 
 > [!TIP]
-> ## Getting Started
+> ## $\color{Apricot}{Getting\ Started}$
+
+
 
 To navigate through this repository:
 
