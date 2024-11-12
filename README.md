@@ -40,11 +40,11 @@ In this repository, you will find:
 
 ## $\color{Apricot}{Key\ Components\ of\ Effective\ Requirement\ Gathering}$
 
-1. **Stakeholder Engagement**: Involve all relevant stakeholders early in the process to gather diverse perspectives.
-2. **Clear Communication**: Use clear and concise language to articulate requirements, avoiding jargon that may confuse stakeholders.
-3. **Iterative Process**: Requirement gathering should be an iterative process, allowing for feedback and adjustments as new insights emerge.
-4. **Documentation**: Maintain thorough documentation of all gathered requirements to ensure transparency and traceability throughout the project lifecycle.
-5. **Validation and Verification**: Regularly validate requirements with stakeholders to ensure alignment with their expectations and verify that they are feasible and actionable.
+1. **$\color{Apricot}{Stakeholder\ Engagement}$**: Involve all relevant stakeholders early in the process to gather diverse perspectives.
+2. **$\color{Apricot}{Clear\ Communication}$**: Use clear and concise language to articulate requirements, avoiding jargon that may confuse stakeholders.
+3. **$\color{Apricot}{Iterative\ Process}$**: Requirement gathering should be an iterative process, allowing for feedback and adjustments as new insights emerge.
+4. **$\color{Apricot}{Documentation}$**: Maintain thorough documentation of all gathered requirements to ensure transparency and traceability throughout the project lifecycle.
+5. **$\color{Apricot}{Validation\ and\ Verification}$**: Regularly validate requirements with stakeholders to ensure alignment with their expectations and verify that they are feasible and actionable.
 
 ---
 <br>
