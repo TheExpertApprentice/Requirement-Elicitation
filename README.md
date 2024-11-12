@@ -1,5 +1,5 @@
 
-# $\color{Apricot}{A\ Decade\ of\ My\ Professional\ Experience\ in\ Requirement\ Gathering\ shared\ for\ FREE}$ 
+# $\color{Apricot}{A\ Decade\ of\ My\ Professional\ Experience\ in\ Requirement\ Gathering\ Unveiled}$ 
 
 > [!NOTE]
 > Welcome to this repository dedicated to the art and science of effective requirement gathering! This project serves as a valuable resource for *project managers*, *business analysts*, and *anyone* involved in the process of defining project requirements.
