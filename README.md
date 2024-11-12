@@ -70,7 +70,7 @@ To navigate through this repository:
 <br>
 
 > [!CAUTION]
-> for any  negative outcomes resulting from an action.
+> Any contributions to this project must follow our Contribution Guide and adhere to our Code of Conduct.
 
 ---
 <br>
