@@ -41,8 +41,10 @@ In this repository, you will find:
 5. **Validation and Verification**: Regularly validate requirements with stakeholders to ensure alignment with their expectations and verify that they are feasible and actionable.
 
 ---
+<br>
 
-## Getting Started
+> [!TIP]
+> ## Getting Started
 
 To navigate through this repository:
 
@@ -60,11 +62,6 @@ To navigate through this repository:
 
 > [!NOTE]
 > Essential details that users should not overlook, even when browsing quickly.
-
-<br>
-
-> [!TIP]
-> Additional advice to aid users in achieving better outcomes.
 
 
 <br>
