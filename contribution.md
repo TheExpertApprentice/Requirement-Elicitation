@@ -1,4 +1,4 @@
-# Contributing to this Requirement Gathering Project
+# Contributing to this Guide
 
 Thank you for your interest in contributing to the **Best Requirement Gathering** project! We welcome contributions from everyone, whether you're a seasoned professional or just starting out. Your insights and expertise can help enhance this resource for all users.
 
