@@ -70,7 +70,7 @@ To navigate through this repository:
 <br>
 
 > [!CAUTION]
-> Any contributions to this project must follow our Contribution Guide and adhere to our Code of Conduct.
+> Any contributions to this project must follow our [Contribution Guide](https://github.com/TheExpertApprentice/Requirement-Elicitation/blob/main/contribution.md) and adhere to our [Code of Conduct](https://github.com/TheExpertApprentice/Requirement-Elicitation/blob/main/CODE_Of_CONDUCT.md).
 
 ---
 <br>
