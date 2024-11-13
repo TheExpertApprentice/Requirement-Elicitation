@@ -28,7 +28,7 @@ In this repository, you will find:
 - **$\color{Apricot}{Guidelines\}$**: Best practices and methodologies for gathering requirements effectively.
 - **$\color{Apricot}{Techniques\}$**: strong foundational & Advanced methods for eliciting high-quality requirements from stakeholders.
 - **$\color{Apricot}{Tools\}$**: strategies, reference guides, and templates I developed, that can also help streamline your requirement-gathering process.
-- **$\color{Apricot}{Additional Resources\}$**: Recommended books, videos, certifications, and professional communities to augment your knowledge on requirement-gathering.
+- **$\color{Apricot}{Additional\ Resources\}$**: Recommended books, videos, certifications, and professional communities to augment your knowledge on requirement-gathering.
 <br>
 
 > [!IMPORTANT]
