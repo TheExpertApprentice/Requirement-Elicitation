@@ -62,9 +62,9 @@ To navigate through this repository:
 
 ## $\color{Apricot}{Additional\ Resources\ or\ references\ that\ can\ aid\ users\ further}$
 
-- **Books**: Consider reading "Software Requirements" by Karl Wiegers for a deeper understanding of requirement engineering.
-- **Online Courses**: Platforms like Coursera and Udemy offer courses on business analysis and requirement gathering techniques.
-- **Forums & Communities**: Join forums such as the International Institute of Business Analysis (IIBA) or LinkedIn groups focused on project management for networking and knowledge sharing.
+- **$\color{Apricot}{Books\}$**: Consider reading "Software Requirements" by Karl Wiegers for a deeper understanding of requirement engineering.
+- **$\color{Apricot}{Online\ Courses}$**: Platforms like Coursera and Udemy offer courses on business analysis and requirement gathering techniques.
+- **$\color{Apricot}{Forums\ and\ Communities}$**: Join forums such as the International Institute of Business Analysis (IIBA) or LinkedIn groups focused on project management for networking and knowledge sharing.
 
 
 <br>
