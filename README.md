@@ -2,7 +2,7 @@
 # $\color{Apricot}{A\ Decade\ of\ My\ Experience\ in\ Requirement\ Gathering\ Unveiled}$ 
 
 > [!NOTE]
-> Welcome to this repository dedicated to the art and science of effective requirement gathering! This project serves as a valuable resource for *project managers*, *business analysts*, and *anyone* involved in the process of defining project requirements.
+> Welcome to this repository dedicated to the art and science of effective requirement gathering! This project serves as a valuable resource for *project managers*, *business analysts*, and *anyone* involved in the process of defining requirements.
 > Here, I unveil insights and lessons learned from personal experience on the key secrets for successful requirement gathering. You'll find insights, pitfalls, mistakes to avoid, good methodologies or strategies to adopt, and practical tools to enhance your requirement-gathering skills.
 
 <br>
