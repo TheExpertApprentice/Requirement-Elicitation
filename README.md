@@ -36,7 +36,7 @@ In this repository, you will find:
 
 - **$\color{Apricot}{Articles\}$**: In-depth articles that explore key concepts in requirement gathering:
   - [Part 1: The Art of Requirement Gathering: proven success strategies for any sized projects and tasks](https://medium.com/@EjikeKris/the-art-of-requirement-gathering-proven-success-strategies-for-any-sized-projects-and-tasks-e955cde8169b) - in this article, I provide an overview of essential techniques for establishing a strong foundation in good requirement gathering.
-  - [Part 2: Advanced Methods for High-Quality Requirements](https://medium.com/@yourusername/part-2-advanced-methods-for-high-quality-requirements) - In this follow-up article, I share more sophisticated approaches to ensure you capture the best possible requirements and elevate your overall requirement elicitation skills.
+  - [Part 2: Beyond Clarification: tackling other pitfalls to high-quality requirement eliciation](https://medium.com/@EjikeKris/beyond-clarification-tackling-other-pitfalls-to-high-quality-requirement-elicitation-68241237b499) - In this follow-up article, I share more advanced approaches to gathering high-quality requirement and elevating your overall requirement elicitation skills.
 
 ---
 
